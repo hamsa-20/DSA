@@ -7,6 +7,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
