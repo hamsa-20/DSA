@@ -21,12 +21,14 @@ A collection of LeetCode questions that i solve
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -37,12 +39,14 @@ A collection of LeetCode questions that i solve
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +56,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 ## Matrix
 |  |
@@ -85,4 +90,5 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
