@@ -36,11 +36,13 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
