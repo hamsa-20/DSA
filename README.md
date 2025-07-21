@@ -91,4 +91,8 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/hamsa-20/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
