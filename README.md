@@ -75,6 +75,7 @@ A collection of LeetCode questions that i solve
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hamsa-20/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
