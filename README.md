@@ -6,6 +6,7 @@ A collection of LeetCode questions that i solve
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions that i solve
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions that i solve
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
