@@ -15,6 +15,7 @@ A collection of LeetCode questions that i solve
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
+| [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hamsa-20/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+| [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -107,6 +109,7 @@ A collection of LeetCode questions that i solve
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Database
