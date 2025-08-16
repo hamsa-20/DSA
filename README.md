@@ -94,6 +94,7 @@ A collection of LeetCode questions that i solve
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/hamsa-20/DSA/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions that i solve
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/hamsa-20/DSA/tree/master/1894-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
