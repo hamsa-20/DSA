@@ -114,6 +114,7 @@ A collection of LeetCode questions that i solve
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1894-merge-strings-alternately](https://github.com/hamsa-20/DSA/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions that i solve
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hamsa-20/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamsa-20/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
