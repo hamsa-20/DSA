@@ -109,6 +109,7 @@ A collection of LeetCode questions that i solve
 | [0020-valid-parentheses](https://github.com/hamsa-20/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions that i solve
 | [0155-min-stack](https://github.com/hamsa-20/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hamsa-20/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamsa-20/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
