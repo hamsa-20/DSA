@@ -79,6 +79,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions that i solve
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions that i solve
 | [0225-implement-stack-using-queues](https://github.com/hamsa-20/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamsa-20/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions that i solve
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
