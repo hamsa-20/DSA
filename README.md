@@ -134,6 +134,7 @@ A collection of LeetCode questions that i solve
 | [0596-classes-with-at-least-5-students](https://github.com/hamsa-20/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/hamsa-20/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/hamsa-20/DSA/tree/master/1161-project-employees-i) |
+| [1179-game-play-analysis-i](https://github.com/hamsa-20/DSA/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/hamsa-20/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/hamsa-20/DSA/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/hamsa-20/DSA/tree/master/1338-queries-quality-and-percentage) |
