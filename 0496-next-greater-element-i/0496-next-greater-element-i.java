@@ -1,24 +1,17 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> ngeMap = new HashMap<>();
-        Stack<Integer> st = new Stack<>();
-        for(int i = nums2.length - 1; i >= 0; i--){
-            int curr = nums2[i];
-            while(!st.isEmpty() && st.peek() <= curr){
-                st.pop();
+        int n=nums1.length;
+        int[] ans=new int[n];
+        for(int i=0;i<n;i++){
+            int greater=-1;
+            int j=nums2.length-1;
+            while(j>=0 && nums2[j]!=nums1[i]){
+                if(nums2[j]>nums1[i]){
+                    greater=nums2[j];
+                }
+                j--;
             }
-            if(!st.isEmpty()){
-                ngeMap.put(curr, st.peek());
-            }
-            else{
-                ngeMap.put(curr, -1);
-            }
-            st.push(curr);
+            ans[i]=greater;
+    }return ans;
         }
-        int[] res = new int[nums1.length];
-        for(int i = 0; i < nums1.length; i++){
-            res[i] = ngeMap.get(nums1[i]);
-        }
-        return res;
-    }
 }
