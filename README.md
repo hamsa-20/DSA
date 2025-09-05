@@ -92,6 +92,7 @@ A collection of LeetCode questions that i solve
 | [0009-palindrome-number](https://github.com/hamsa-20/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+| [3830-find-closest-person](https://github.com/hamsa-20/DSA/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
