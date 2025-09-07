@@ -85,6 +85,7 @@ A collection of LeetCode questions that i solve
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
+| [1448-maximum-69-number](https://github.com/hamsa-20/DSA/tree/master/1448-maximum-69-number) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Math
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions that i solve
 | [0009-palindrome-number](https://github.com/hamsa-20/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+| [1448-maximum-69-number](https://github.com/hamsa-20/DSA/tree/master/1448-maximum-69-number) |
 | [3830-find-closest-person](https://github.com/hamsa-20/DSA/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
