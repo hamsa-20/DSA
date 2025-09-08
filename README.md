@@ -15,6 +15,7 @@ A collection of LeetCode questions that i solve
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/hamsa-20/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hamsa-20/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions that i solve
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hamsa-20/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hamsa-20/DSA/tree/master/0503-next-greater-element-ii) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions that i solve
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hamsa-20/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hamsa-20/DSA/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Design
