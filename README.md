@@ -19,6 +19,7 @@ A collection of LeetCode questions that i solve
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hamsa-20/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hamsa-20/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamsa-20/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/hamsa-20/DSA/tree/master/0969-number-of-recent-calls) |
 ## Simulation
 |  |
@@ -214,4 +218,8 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/hamsa-20/DSA/tree/master/0969-number-of-recent-calls) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
