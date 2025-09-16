@@ -18,6 +18,7 @@ A collection of LeetCode questions that i solve
 | [0503-next-greater-element-ii](https://github.com/hamsa-20/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/hamsa-20/DSA/tree/master/0605-can-place-flowers) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions that i solve
 | [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/hamsa-20/DSA/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/hamsa-20/DSA/tree/master/1448-maximum-69-number) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Math
