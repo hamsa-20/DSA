@@ -99,6 +99,7 @@ A collection of LeetCode questions that i solve
 | [0009-palindrome-number](https://github.com/hamsa-20/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/hamsa-20/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/hamsa-20/DSA/tree/master/1448-maximum-69-number) |
 | [3830-find-closest-person](https://github.com/hamsa-20/DSA/tree/master/3830-find-closest-person) |
 ## Two Pointers
@@ -133,6 +134,7 @@ A collection of LeetCode questions that i solve
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/hamsa-20/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/hamsa-20/DSA/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Database
