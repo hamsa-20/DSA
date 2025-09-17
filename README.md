@@ -102,6 +102,7 @@ A collection of LeetCode questions that i solve
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hamsa-20/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamsa-20/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/hamsa-20/DSA/tree/master/1448-maximum-69-number) |
 | [3830-find-closest-person](https://github.com/hamsa-20/DSA/tree/master/3830-find-closest-person) |
 ## Two Pointers
@@ -226,4 +227,8 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamsa-20/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
