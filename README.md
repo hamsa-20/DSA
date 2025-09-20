@@ -220,6 +220,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hamsa-20/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/hamsa-20/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 ## Data Stream
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hamsa-20/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/hamsa-20/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hamsa-20/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamsa-20/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
