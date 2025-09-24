@@ -11,6 +11,7 @@ A collection of LeetCode questions that i solve
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions that i solve
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/hamsa-20/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -237,4 +240,8 @@ A collection of LeetCode questions that i solve
 | [0206-reverse-linked-list](https://github.com/hamsa-20/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hamsa-20/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamsa-20/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
