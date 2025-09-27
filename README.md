@@ -28,6 +28,7 @@ A collection of LeetCode questions that i solve
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hamsa-20/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2634-minimum-common-value](https://github.com/hamsa-20/DSA/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions that i solve
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hamsa-20/DSA/tree/master/0496-next-greater-element-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2634-minimum-common-value](https://github.com/hamsa-20/DSA/tree/master/2634-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions that i solve
 | [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hamsa-20/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hamsa-20/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2634-minimum-common-value](https://github.com/hamsa-20/DSA/tree/master/2634-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions that i solve
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/hamsa-20/DSA/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hamsa-20/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2634-minimum-common-value](https://github.com/hamsa-20/DSA/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
