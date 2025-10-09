@@ -55,6 +55,7 @@ A collection of LeetCode questions that i solve
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0020-valid-parentheses](https://github.com/hamsa-20/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
