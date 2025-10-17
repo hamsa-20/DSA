@@ -10,6 +10,7 @@ A collection of LeetCode questions that i solve
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/hamsa-20/DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
