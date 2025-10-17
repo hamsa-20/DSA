@@ -178,6 +178,7 @@ A collection of LeetCode questions that i solve
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/hamsa-20/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/hamsa-20/DSA/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/hamsa-20/DSA/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/hamsa-20/DSA/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/hamsa-20/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/hamsa-20/DSA/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hamsa-20/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
