@@ -175,6 +175,7 @@ A collection of LeetCode questions that i solve
 | [0596-classes-with-at-least-5-students](https://github.com/hamsa-20/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/hamsa-20/DSA/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/hamsa-20/DSA/tree/master/0619-biggest-single-number) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hamsa-20/DSA/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/hamsa-20/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/hamsa-20/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/hamsa-20/DSA/tree/master/1161-project-employees-i) |
