@@ -58,6 +58,7 @@ A collection of LeetCode questions that i solve
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/hamsa-20/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hamsa-20/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/hamsa-20/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/hamsa-20/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hamsa-20/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamsa-20/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
