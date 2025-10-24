@@ -113,6 +113,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0009-palindrome-number](https://github.com/hamsa-20/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/hamsa-20/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hamsa-20/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamsa-20/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
