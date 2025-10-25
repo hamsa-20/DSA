@@ -151,6 +151,7 @@ A collection of LeetCode questions that i solve
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions that i solve
 | [0225-implement-stack-using-queues](https://github.com/hamsa-20/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamsa-20/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/hamsa-20/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hamsa-20/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hamsa-20/DSA/tree/master/0496-next-greater-element-i) |
@@ -272,4 +274,12 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 <!---LeetCode Topics End-->
