@@ -31,6 +31,7 @@ A collection of LeetCode questions that i solve
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2058-concatenation-of-array](https://github.com/hamsa-20/DSA/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hamsa-20/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2634-minimum-common-value](https://github.com/hamsa-20/DSA/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -253,6 +254,7 @@ A collection of LeetCode questions that i solve
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/hamsa-20/DSA/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
