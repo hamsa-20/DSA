@@ -29,6 +29,7 @@ A collection of LeetCode questions that i solve
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hamsa-20/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1580-shuffle-the-array](https://github.com/hamsa-20/DSA/tree/master/1580-shuffle-the-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/hamsa-20/DSA/tree/master/2058-concatenation-of-array) |
