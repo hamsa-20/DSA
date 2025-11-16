@@ -25,6 +25,7 @@ A collection of LeetCode questions that i solve
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/hamsa-20/DSA/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/hamsa-20/DSA/tree/master/0645-set-mismatch) |
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions that i solve
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/hamsa-20/DSA/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/hamsa-20/DSA/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hamsa-20/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bucket Sort
@@ -69,6 +71,7 @@ A collection of LeetCode questions that i solve
 | [0383-ransom-note](https://github.com/hamsa-20/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/hamsa-20/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/hamsa-20/DSA/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/hamsa-20/DSA/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/hamsa-20/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/hamsa-20/DSA/tree/master/2634-minimum-common-value) |
 ## Counting
@@ -285,6 +288,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hamsa-20/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/hamsa-20/DSA/tree/master/0645-set-mismatch) |
 ## Tree
 |  |
 | ------- |
