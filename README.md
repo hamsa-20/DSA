@@ -31,6 +31,7 @@ A collection of LeetCode questions that i solve
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hamsa-20/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1552-build-an-array-with-stack-operations](https://github.com/hamsa-20/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/hamsa-20/DSA/tree/master/1580-shuffle-the-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions that i solve
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/hamsa-20/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hamsa-20/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/hamsa-20/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/hamsa-20/DSA/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions that i solve
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/hamsa-20/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/hamsa-20/DSA/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/hamsa-20/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
