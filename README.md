@@ -297,19 +297,23 @@ A collection of LeetCode questions that i solve
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
