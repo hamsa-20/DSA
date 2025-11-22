@@ -6,6 +6,7 @@ A collection of LeetCode questions that i solve
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hamsa-20/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hamsa-20/DSA/tree/master/0027-remove-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions that i solve
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hamsa-20/DSA/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/hamsa-20/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
