@@ -142,6 +142,7 @@ A collection of LeetCode questions that i solve
 | [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hamsa-20/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/hamsa-20/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/hamsa-20/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0020-valid-parentheses](https://github.com/hamsa-20/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/hamsa-20/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
