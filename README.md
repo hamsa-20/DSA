@@ -33,6 +33,7 @@ A collection of LeetCode questions that i solve
 | [0841-shortest-distance-to-a-character](https://github.com/hamsa-20/DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/hamsa-20/DSA/tree/master/1168-duplicate-zeros) |
+| [1470-shuffle-the-array](https://github.com/hamsa-20/DSA/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/hamsa-20/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/hamsa-20/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamsa-20/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
