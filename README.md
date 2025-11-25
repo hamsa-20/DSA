@@ -13,6 +13,7 @@ A collection of LeetCode questions that i solve
 | [0053-maximum-subarray](https://github.com/hamsa-20/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamsa-20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/hamsa-20/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamsa-20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0001-two-sum](https://github.com/hamsa-20/DSA/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/hamsa-20/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0053-maximum-subarray](https://github.com/hamsa-20/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamsa-20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/hamsa-20/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
@@ -171,6 +174,7 @@ A collection of LeetCode questions that i solve
 | [0020-valid-parentheses](https://github.com/hamsa-20/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hamsa-20/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/hamsa-20/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/hamsa-20/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -326,4 +330,12 @@ A collection of LeetCode questions that i solve
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
