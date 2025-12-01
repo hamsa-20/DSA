@@ -13,14 +13,6 @@
  *     }
  * }
  */
-import java.util.*;
-
-class TreeNode {
-    int val;
-    TreeNode left, right;
-    TreeNode(int x) { val = x; }
-}
-
 class Solution {
     Map<Integer, Integer> indexMap = new HashMap<>();
     int preIndex = 0;
