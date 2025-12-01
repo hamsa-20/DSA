@@ -11,6 +11,7 @@ A collection of LeetCode questions that i solve
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hamsa-20/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/hamsa-20/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamsa-20/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamsa-20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/hamsa-20/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hamsa-20/DSA/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamsa-20/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/hamsa-20/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/hamsa-20/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/hamsa-20/DSA/tree/master/0205-isomorphic-strings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions that i solve
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hamsa-20/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamsa-20/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/hamsa-20/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hamsa-20/DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -311,12 +314,14 @@ A collection of LeetCode questions that i solve
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamsa-20/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamsa-20/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hamsa-20/DSA/tree/master/0112-path-sum) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/hamsa-20/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
