@@ -11,6 +11,7 @@ A collection of LeetCode questions that i solve
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hamsa-20/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/hamsa-20/DSA/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hamsa-20/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamsa-20/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/hamsa-20/DSA/tree/master/0135-candy) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions that i solve
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/hamsa-20/DSA/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/hamsa-20/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hamsa-20/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions that i solve
 | [0011-container-with-most-water](https://github.com/hamsa-20/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hamsa-20/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/hamsa-20/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hamsa-20/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hamsa-20/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hamsa-20/DSA/tree/master/0287-find-the-duplicate-number) |
